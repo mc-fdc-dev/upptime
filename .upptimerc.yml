@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mc-fdc.com
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/109657029?s=400&u=87fd5b0145f59f55109092e4b55770723c6df6b6&v=4
   name: mc-fdc-dev status
   introTitle: "mc-fdc-dev公式ステータスサイト"
   introMessage: mc-fdc official status site
