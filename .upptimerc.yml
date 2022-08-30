@@ -12,6 +12,8 @@ sites:
     url: https://blog.mc-fdc.com
   - name: Api
     url: https://api.mc-fdc.com
+  - name: Knowledge(Rext)
+    url: https://knowledge.rext.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
