@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 108,
-    "timeWeek": 349,
-    "timeMonth": 238,
-    "timeYear": 227,
+    "time": 224,
+    "timeDay": 105,
+    "timeWeek": 321,
+    "timeMonth": 234,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 93,
-    "timeWeek": 208,
-    "timeMonth": 183,
-    "timeYear": 220,
+    "time": 217,
+    "timeDay": 89,
+    "timeWeek": 194,
+    "timeMonth": 180,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "status": "down",
     "uptime": "54.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.06%",
+    "uptimeWeek": "36.03%",
     "uptimeMonth": "57.15%",
     "uptimeYear": "54.09%",
-    "time": 268,
-    "timeDay": 246,
-    "timeWeek": 286,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 266,
+    "timeDay": 227,
+    "timeWeek": 277,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-08-30": 586,
+      "2022-08-30": 589,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
@@ -70,26 +70,6 @@
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1160
-    }
-  },
-  {
-    "name": "Knowledge(Rext)",
-    "url": "https://knowledge.rext.dev",
-    "icon": "https://favicons.githubusercontent.com/knowledge.rext.dev",
-    "slug": "knowledge-rext",
-    "status": "down",
-    "uptime": "7.66%",
-    "uptimeDay": "7.66%",
-    "uptimeWeek": "7.66%",
-    "uptimeMonth": "7.66%",
-    "uptimeYear": "7.66%",
-    "time": 104,
-    "timeDay": 104,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
-    "dailyMinutesDown": {
-      "2022-08-30": 0
     }
   }
 ]
