@@ -22,9 +22,9 @@
     "url": "https://blog.mc-fdc.com",
     "icon": "https://favicons.githubusercontent.com/blog.mc-fdc.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 156,
     "timeMonth": 164,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-28": 0
+    }
   },
   {
     "name": "Api",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/api.mc-fdc.com",
     "slug": "api",
     "status": "up",
-    "uptime": "70.45%",
+    "uptime": "70.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.25%",
-    "uptimeYear": "70.45%",
+    "uptimeMonth": "83.60%",
+    "uptimeYear": "70.65%",
     "time": 270,
     "timeDay": 281,
     "timeWeek": 291,
