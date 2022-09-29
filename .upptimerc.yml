@@ -6,10 +6,10 @@ assignees:
   - tuna2134
 
 sites:
-  - name: main page
+  - name: Main page
     url: https://mc-fdc.com
-  - name: blog
-    url: https://blog.mc-fdc.com
+  - name: Notes
+    url: https://notes.mc-fdc.com
   - name: Api
     url: https://api.mc-fdc.com
 
