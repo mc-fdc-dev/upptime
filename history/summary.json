@@ -22,19 +22,19 @@
     "url": "https://notes.mc-fdc.com",
     "icon": "https://icons.duckduckgo.com/ip3/notes.mc-fdc.com.ico",
     "slug": "notes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 521,
-    "timeWeek": 394,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 557,
+    "timeDay": 933,
+    "timeWeek": 545,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2022-10-07": 0
+      "2022-10-07": 24
     }
   },
   {
