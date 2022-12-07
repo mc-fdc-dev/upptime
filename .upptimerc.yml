@@ -9,9 +9,7 @@ sites:
   - name: Main page
     url: https://mc-fdc.com
   - name: Notes
-    url: https://notes.mc-fdc.com
-  - name: Api
-    url: https://api.mc-fdc.com
+    url: https://tuna2134.jp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
